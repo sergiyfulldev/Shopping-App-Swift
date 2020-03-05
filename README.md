@@ -1,4 +1,4 @@
-# ShoppingApp
+# ShoppingApp written in Swift 4.0
 
 ShoppingApp is a shopping application written in swift that offer its users the possibility to see fashion trends for women, men and kids.
 
